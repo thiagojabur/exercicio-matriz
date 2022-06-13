@@ -1,0 +1,10 @@
+1 - Faça uma matriz (vários vetores) com arranjos estáticos (memória estática). Usa matriz de tamanho variável. 
+2 - Os valores são
+3 4  1  6
+2 2  1  0
+2 1 22
+5 9 11 22 43
+
+3  - Mostre a matriz na tela.
+
+4 - Faça a soma das colunas.
